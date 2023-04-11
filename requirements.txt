@@ -1,0 +1,4 @@
+asgiref==3.6.0
+certifi @ file:///Users/ec2-user/ci_py311/certifi_1678321191472/work/certifi
+Django==4.2
+sqlparse==0.4.3
